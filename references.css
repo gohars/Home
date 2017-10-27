@@ -1,0 +1,39 @@
+body
+{
+	background-color: #009900;
+}
+h1
+{
+	text-align:center;
+	color:white;
+}
+h2
+{
+	text-align:center;
+	color:white;
+}
+h3
+{
+	text-align:center;
+	color:white;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#navgbar
+{
+	display:inline;
+	float:left;
+}
+li a 
+{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
