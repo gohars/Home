@@ -1,18 +1,23 @@
-body{
+body
+{
 	background-color: #009900;
 }
-h1{
+h1
+{
 	text-align:center;
 	color:white;
 }
-h2{
+h2
+{
 	text-align:center;
 	color:white;
 }
-h3{
+h3
+{
 	text-align:center;
 	color:white;
 }
+/*Paragraph Alignment*/
 p{
 	text-align:center;
 	color:white;

@@ -2,12 +2,8 @@ body
 {
 	background-color: #009900;
 }
-h1
-{
-	text-align:center;
-	color:white;
-}
-h2
+/*Header One+Two Css*/
+h1,h2
 {
 	text-align:center;
 	color:white;
